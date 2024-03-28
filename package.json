@@ -1,0 +1,38 @@
+{
+  "name": "sitsit",
+  "version": "1.0.0",
+  "description": "A React component that synthesis text into speech using Web Speech API",
+  "keywords": [
+    "react",
+    "numquam",
+    "et",
+    "qui",
+    "ea",
+    "tts",
+    "utterance",
+    "web speech",
+    "eos"
+  ],
+  "main": "lib/index.js",
+  "files": [
+    "lib/**/*"
+  ],
+  "author": "JayceeAnkunding",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeangeloKreiger/sitsit.git"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "event-as-promise": "^1.0.3",
+    "glamor": "^2.20.40",
+    "memoize-one": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.4.1"
+  },
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
+}
